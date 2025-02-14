@@ -1,4 +1,4 @@
-<img width="785" alt="image" src="https://github.com/user-attachments/assets/cbf2dd40-fdaf-4556-a927-3aabab2b396f" /># Pseudocode Exercise 8 Function and Procedure
+Pseudocode Exercise 8 Function and Procedure
 
 ---
 
