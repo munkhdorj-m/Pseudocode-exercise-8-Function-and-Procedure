@@ -24,9 +24,9 @@ INTEGER. The array will contain six elements.
     
 ## Exercise 3
 
-A program uses two 1D arrays of type integer. Array1 contains 600 elements and Array2 contains 200 elements.<br/>
-Array1 contains sample values read from a sensor. <br/>The sensor always takes three consecutive samples and all of these values are stored in Array1.<br/>
-A procedure Summarise() will calculate the average of three consecutive values from Array1 and write the result to Array2. <br/> This will be repeated for all values in Array1.
+A program uses two 1D arrays of type integer. Array1 contains 600 elements and Array2 contains 200 elements.<br/><br/>
+Array1 contains sample values read from a sensor. The sensor always takes three consecutive samples and all of these values are stored in Array1.<br/><br/>
+A procedure Summarise() will calculate the average of three consecutive values from Array1 and write the result to Array2. This will be repeated for all values in Array1. <br/><br/>
 The diagram below illustrates the process for the first six entries in Array1.<br/><br/>
 <img width="785" alt="image" src="https://github.com/user-attachments/assets/2fd1a41b-3f99-412c-a7ec-b76ee3e03b75" /> <br/><br/>
 Write pseudocode for the procedure Summarise().
