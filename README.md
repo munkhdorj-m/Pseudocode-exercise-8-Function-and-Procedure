@@ -11,15 +11,17 @@ Write a procedure to output how many odd and event digit given number have.
     Output: "Odd digit: 3, Even digit: 2"
 
 ## Exercise 2
-<pre>
+
 Write pseudocode for the procedure CountVowels(). A procedure CountVowels() will: <br />
-        • be called with a string containing alphanumeric characters as its parameter <br />
-        • count and output the number of occurrences of each vowel (a, e, i, o, u) in the string <br />
-        • count and output the number of occurrences of the other alphabetic characters (as a single total). <br />
+<pre>
+    • be called with a string containing alphanumeric characters as its parameter <br />
+    • count and output the number of occurrences of each vowel (a, e, i, o, u) in the string <br />
+    • count and output the number of occurrences of the other alphabetic characters (as a single total). <br />
+</pre>
 The string may contain both upper and lower case characters.
 Each count value will be stored in a unique element of a global 1D array CharCount of type
 INTEGER. The array will contain six elements.
-</pre>
+
 
     
 ## Exercise 3
