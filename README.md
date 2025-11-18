@@ -13,7 +13,7 @@ Write a procedure to output how many odd and even digit given number have.
 ## Exercise 2
 
 Write pseudocode for the procedure CountVowels(). A procedure CountVowels() will: <br /><br/>
-  • be called with a string containing alphanumeric characters as its parameter <br />
+  • be called with a string as its parameter <br />
   • count and output the number of occurrences of each vowel (a, e, i, o, u) in the string <br />
   • count and output the number of occurrences of the other alphabetic characters (as a single total). <br /><br/>
 The string may contain both upper and lower case characters.
